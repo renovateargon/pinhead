@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+
+<html>
+	<head>
+		<title>павел андреевич</title>
+	 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<meta charset="utf-8">
+		<meta name="description" content="Личная страница и контакты">
+		<!-- Bootstrap Core CSS -->
+    	<link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet" media="screen">
+	</head>
+	<body>
+<div class="btn-group">
+  <a href="https://ling.hse.ru/"> <button type="button" class="btn btn-warning">Школа лингвистики</button> </a>
+</div>
+		<header style="background-color:mediumseagreen; padding-top:70px;"> 
+			<div class="container"> 
+				<div class="row">
+					<div class="col-md-4">
+						<br/><br/>
+						<h1>павел павел</h1>
+						<hr>
+						<p><i> много хочу много получу</i></p> 
+	                </div>
+					<div class="col-md-4">
+        	            <img src="https://pp.vk.me/c627125/v627125088/39ab9/RT0D2nuDpOI.jpg" title="произведение" alt="" style="height:1080px; width:658px; margin:20px 20px 40px 20px; " >
+					</div>
+	            </div>
+			</div>
+		</header>
+		<section id="portfolio">
+			<div class="container">
+				<div class="col-md-3">
+				<article>
+					<h3>Место учебы</h2>
+					<p>НИУ ВШЭ</p>
+				</article>
+				<article>
+					<h3>Школа</h2>
+					<p>1553</p>
+					
+				</article>	
+				</div>
+				<div class="col-md-6">
+
+				</article>
+				</div>
+			<div class="col-md-3">
+				<h3>Мои контакты</h3>
+						<p> 
+  </button> </a> <br/>
+							<a href= https://vk.com/wotchmon>  
+  <button type="button" class="btn btn-info">VK</button> </a>
+ 
+
+</p>
+				</div>
+			</div>
+		</section>
+		<footer class="bs-docs-footer"> 
+			<div class="container"> 
+				<p style="text-align:right; ">&copy; павел </p> 
+			</div>
+		</footer>
+	</body>
+</html>
